@@ -1,0 +1,6 @@
+2025-02-20 22:02:19.027 | INFO     | __main__:soma:6 - 1
+2025-02-20 22:02:19.028 | INFO     | __main__:soma:7 - 3
+2025-02-21 06:02:13.160 | INFO     | __main__:soma:8 - Voce digitou corretamente 4
+2025-02-21 06:02:13.241 | CRITICAL | __main__:soma:11 - Digite os numeros corretos.
+2025-02-21 21:55:22.172 | INFO     | __main__:soma:32 - Voce digitou corretamente 4
+2025-02-21 21:55:22.174 | CRITICAL | __main__:soma:35 - Digite os numeros corretos.

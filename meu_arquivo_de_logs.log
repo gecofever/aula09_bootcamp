@@ -1,0 +1,4 @@
+2025-02-21T21:55:22.132257-0300 INFO Este é um log de informação. exemplo_00.py
+2025-02-21T21:55:22.140694-0300 ERROR Este é um log de erro. exemplo_00.py
+2025-02-21T21:55:22.172458-0300 INFO Voce digitou corretamente 4 exemplo_00.py
+2025-02-21T21:55:22.174624-0300 CRITICAL Digite os numeros corretos. exemplo_00.py
